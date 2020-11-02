@@ -1,0 +1,16 @@
+{
+  "id": "10",
+  "type": "wps",
+  "service": "wps_spectral_indices",
+  "callback": "",
+  "inputs": [{
+    "name": "adda",
+    "value": "",
+    "type": "string"
+  }],
+  "outputs": [{
+    "name": "dad",
+    "value": "",
+    "type": "string"
+  }]
+}
